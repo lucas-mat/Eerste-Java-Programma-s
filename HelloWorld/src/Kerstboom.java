@@ -9,10 +9,10 @@ public class Kerstboom {
         //     System.out.println("Count is: " + item);
 		
       
-		for (int i = 0; i < 5; i++) 
-           System.out.println("     **********".substring(i, 6 + 2*i));
+		for (int i = 0; i < 5; i++)
+			System.out.println("     **********".substring(i, 6 + 2*i));
 				
-				
+
 		}
         
 
@@ -22,6 +22,8 @@ public class Kerstboom {
             space++;
         }
       */
+
+     //trying to commit 
         
 	}
 //}
