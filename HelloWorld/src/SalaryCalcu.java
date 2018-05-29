@@ -37,7 +37,7 @@ public class SalaryCalcu {
 		System.out.println("Beste, " + werknemer + " ,uw netto salaris van dit jaar bedraagt " + salary + ".");
 				
 		//Voor 3 personen moet je met een switch/break werken
-		
+		//snel berekenen van bruto belastbaar inkomen -> (1 - 0,1307)
 		
 	}
 }
