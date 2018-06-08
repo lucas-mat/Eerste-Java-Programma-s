@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e17603-0ac0-4205-9a84-47e3f46a938a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CookieClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CookieClass/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/BlackBelt2013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/HowOldNow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Kerstboom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/SalaryCalcu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/BlackBelt2013.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/BlackBelt2013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/HowOldNow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/HowOldNow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Kerstboom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/Kerstboom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/SalaryCalcu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/SalaryCalcu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaMetKevin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaMetKevin/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Kerstboom.java" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/Java Projectjes/Kerstboom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -38,7 +36,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="941" />
+    <option name="x" value="757" />
     <option name="y" value="23" />
     <option name="width" value="1488" />
     <option name="height" value="1336" />
@@ -51,7 +49,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,10 +56,16 @@
               <item name="Erfenis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Erfenis" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Erfenis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Erfenis" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,21 +151,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="941" y="23" width="1488" height="1336" extended-state="0" />
+    <frame x="757" y="23" width="1488" height="1336" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006916" side_tool="true" visible="true" weight="0.3292978" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5013831" side_tool="true" visible="true" weight="0.3292978" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49930844" visible="true" weight="0.3292978" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49861687" visible="true" weight="0.3292978" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25726143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26071924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -214,6 +217,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/Java Projectjes/Kerstboom.java" />
   </component>
   <component name="masterDetails">
     <states>
