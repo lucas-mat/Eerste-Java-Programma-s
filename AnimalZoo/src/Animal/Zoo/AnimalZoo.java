@@ -11,13 +11,12 @@ public class AnimalZoo {
 
         catto.sound();
         birdo.sound();
-        System.out.println(((Bird) birdo).fly());
         doggo.sound();
 
+        System.out.println(((Cat) catto).scratchPower());
+        System.out.println("Bird flies "+((Bird) birdo).fly()+" meters high.");
 
 
-
-
-        System.out.println();
     }
+
 }

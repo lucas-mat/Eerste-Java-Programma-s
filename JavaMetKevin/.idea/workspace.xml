@@ -12,29 +12,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExcArray1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
+      <file leaf-file-name="BreukenMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BreukenMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExcArray2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcArray3Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
+      <file leaf-file-name="Breuk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Breuk.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Utilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreukenTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/test/java/Test/be/vdab/math/BreukenTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatePi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/CalculatePi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -63,24 +84,44 @@
         <option value="$PROJECT_DIR$/src/GuessingGame.java" />
         <option value="$PROJECT_DIR$/src/tusk/mala/FizzBizz.java" />
         <option value="$PROJECT_DIR$/src/tusk/mala/GuessingGame.java" />
-        <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java" />
-        <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray2.java" />
         <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray1.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray2.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExerciseZelfStudie1.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExerciseZelfStudie2.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/Bakker.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExerciseZelfStudie3.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExerciseZelfStudie4.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/MegaCalc3000Plus.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/MegaCalc4000Plus.java" />
+        <option value="$PROJECT_DIR$/src/TryItOut.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/ExcArray3.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/Exc3.java" />
+        <option value="$PROJECT_DIR$/src/Prime_number_detector.java" />
+        <option value="$PROJECT_DIR$/src/Primes.java" />
+        <option value="$PROJECT_DIR$/Test/be/vdab/math/Primes.java" />
+        <option value="$PROJECT_DIR$/Test/be/vdab/math/PrimesTest.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/Breuken.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/Utilities.java" />
+        <option value="$PROJECT_DIR$/Test/be/vdab/math/BreukenTest.java" />
+        <option value="$PROJECT_DIR$/src/BreukenMain.java" />
+        <option value="$PROJECT_DIR$/src/tusk/mala/Breuk.java" />
+        <option value="$PROJECT_DIR$/../MyGradleProject/src/main/java/mala/Breuk.java" />
+        <option value="$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/CalculatePi.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="106" />
-    <option name="width" value="2560" />
-    <option name="height" value="1334" />
+    <option name="x" value="442" />
+    <option name="y" value="23" />
+    <option name="width" value="1553" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -102,27 +143,37 @@
             <path>
               <item name="JavaMetKevin" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaMetKevin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaMetKevin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaMetKevin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mala" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JavaMetKevin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="be.vdab.math" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/tusk/mala" />
     </key>
   </component>
@@ -138,51 +189,135 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExcArray2">
-    <configuration name="CalculatePi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tusk.mala.CalculatePi" />
-      <module name="JavaMetKevin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.BreukenTest.negatieveBreukenKunnenOpgeteldWorden">
     <configuration name="ExcArray1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tusk.mala.ExcArray1" />
       <module name="JavaMetKevin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tusk.mala.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="ExcArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tusk.mala.ExcArray2" />
-      <module name="JavaMetKevin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tusk.mala.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FizzBizz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tusk.mala.FizzBizz" />
-      <module name="JavaMetKevin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tusk.mala.GuessingGame" />
-      <module name="JavaMetKevin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MaxMinRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tusk.mala.MaxMinRandom" />
-      <module name="JavaMetKevin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BreukenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMetKevin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.vdab.math" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.math.BreukenTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMetKevin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.vdab.math" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.math.BreukenTest" />
+      <option name="METHOD_NAME" value="breukenKunnenOpgeteldWorden" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BreukenTest.negatieveBreukenKunnenOpgeteldWorden" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMetKevin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.vdab.math" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.math.BreukenTest" />
+      <option name="METHOD_NAME" value="negatieveBreukenKunnenOpgeteldWorden" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BreukenTest.nulIsNietGeldigAlsNoemer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMetKevin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.vdab.math" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.math.BreukenTest" />
+      <option name="METHOD_NAME" value="nulIsNietGeldigAlsNoemer" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMetKevin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.vdab.math" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.math.PrimesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -224,19 +359,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExcArray1" />
-      <item itemvalue="Application.CalculatePi" />
-      <item itemvalue="Application.MaxMinRandom" />
-      <item itemvalue="Application.FizzBizz" />
-      <item itemvalue="Application.GuessingGame" />
-      <item itemvalue="Application.ExcArray2" />
+      <item itemvalue="JUnit.PrimesTest" />
+      <item itemvalue="JUnit.BreukenTest.breukenKunnenOpgeteldWorden" />
+      <item itemvalue="JUnit.BreukenTest" />
+      <item itemvalue="JUnit.BreukenTest.nulIsNietGeldigAlsNoemer" />
+      <item itemvalue="JUnit.BreukenTest.negatieveBreukenKunnenOpgeteldWorden" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExcArray2" />
-        <item itemvalue="Application.GuessingGame" />
-        <item itemvalue="Application.FizzBizz" />
-        <item itemvalue="Application.MaxMinRandom" />
-        <item itemvalue="Application.CalculatePi" />
+        <item itemvalue="JUnit.BreukenTest.negatieveBreukenKunnenOpgeteldWorden" />
+        <item itemvalue="JUnit.BreukenTest" />
+        <item itemvalue="JUnit.BreukenTest.nulIsNietGeldigAlsNoemer" />
+        <item itemvalue="JUnit.BreukenTest.breukenKunnenOpgeteldWorden" />
+        <item itemvalue="JUnit.PrimesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -253,8 +388,40 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BreukenTest_breukenKunnenOpgeteldWorden - 2018.06.19 at 08h 48m 49s.xml">
+      <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest_breukenKunnenOpgeteldWorden - 2018.06.19 at 08h 58m 41s.xml">
+      <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest_breukenKunnenOpgeteldWorden - 2018.06.19 at 08h 58m 55s.xml">
+      <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest_breukenKunnenOpgeteldWorden - 2018.06.19 at 08h 59m 18s.xml">
+      <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest - 2018.06.19 at 08h 59m 56s.xml">
+      <configuration name="BreukenTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest_breukenKunnenOpgeteldWorden - 2018.06.19 at 09h 04m 54s.xml">
+      <configuration name="BreukenTest.breukenKunnenOpgeteldWorden" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest - 2018.06.19 at 09h 05m 00s.xml">
+      <configuration name="BreukenTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest - 2018.06.19 at 09h 06m 04s.xml">
+      <configuration name="BreukenTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest - 2018.06.19 at 09h 06m 44s.xml">
+      <configuration name="BreukenTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreukenTest_nulIsNietGeldigAlsNoemer - 2018.06.19 at 09h 14m 26s.xml">
+      <configuration name="BreukenTest.nulIsNietGeldigAlsNoemer" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="106" width="2560" height="1334" extended-state="0" />
+    <frame x="442" y="23" width="1553" height="819" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -263,21 +430,22 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.21065375" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43295637" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36187398" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17871326" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19722039" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39983845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990307" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32875606" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -289,263 +457,151 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/CalculatePi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/MaxMinRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/FizzBizz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/GuessingGame.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/CalculatePi.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/CalculatePi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/MaxMinRandom.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/MaxMinRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/FizzBizz.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/FizzBizz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/GuessingGame.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/NumberPyramid.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/NumberPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/NumberPyramid.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/NumberPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
@@ -566,87 +622,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ProductPriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ProductPriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/EersteLesJavaKevin.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/EersteLesJavaKevin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/CalculatePi.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/MaxMinRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/MaxMinRandom.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/NumberPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/NumberPyramid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/FizzBizz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/GuessingGame.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3Matrix.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray2.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/FizzBizz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray1.java">
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExcArray1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExerciseZelfStudie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExerciseZelfStudie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Bakker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExerciseZelfStudie3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExerciseZelfStudie4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/MegaCalc3000Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="45" column="18" selection-start-line="24" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/MegaCalc4000Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TryItOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExcArray3Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tusk/mala/ExcArray3.java" />
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/ExcArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Exc3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Primes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/test/java/Test/be/vdab/math/PrimesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreukenMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Breuk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/test/java/Test/be/vdab/math/BreukenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyGradleProject/src/main/java/tusk/mala/CalculatePi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -715,6 +880,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

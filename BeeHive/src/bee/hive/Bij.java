@@ -1,6 +1,6 @@
 package bee.hive;
 
-public class Bij  {
+public abstract class Bij  {
 
     private String name;
 

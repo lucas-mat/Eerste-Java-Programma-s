@@ -10,6 +10,10 @@ public class Bird extends Animal {
 
         int flyingHeight = 2;
         return flyingHeight;
+
+    }
+    public void sound(){
+        System.out.println("Chipchip");
     }
 
 }

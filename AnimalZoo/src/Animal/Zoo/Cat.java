@@ -1,5 +1,7 @@
 package Animal.Zoo;
 
+import java.util.Random;
+
 public class Cat extends Animal {
 
 
@@ -7,14 +9,20 @@ public class Cat extends Animal {
         super(inputName);
     }
 
-    @Override
+    //@Override
     public void sound() {
         System.out.println("Miauw");
+
+
+
     }
 
-    public void scratch(){
+    public int scratchPower(){
 
+        
         int scratch = 3;
+
+        return scratch;
     }
 
 }

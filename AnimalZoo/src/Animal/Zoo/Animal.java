@@ -1,6 +1,6 @@
 package Animal.Zoo;
 
-public class Animal {
+public abstract class Animal {
     private String name;
 
     public Animal(String inputName) {
@@ -15,8 +15,8 @@ public class Animal {
         this.name = name;
     }
 
-    public void sound() {
-        System.out.println("Meep");
-    }
+    public abstract void sound();
 }
+
+
 
